@@ -1,0 +1,7 @@
+C:\Users\Majid\source\repos\FirstHomework\FirstHomework\bin\Debug\FirstHomework.exe.config
+C:\Users\Majid\source\repos\FirstHomework\FirstHomework\bin\Debug\FirstHomework.exe
+C:\Users\Majid\source\repos\FirstHomework\FirstHomework\bin\Debug\FirstHomework.pdb
+C:\Users\Majid\source\repos\FirstHomework\FirstHomework\obj\Debug\FirstHomework.csprojAssemblyReference.cache
+C:\Users\Majid\source\repos\FirstHomework\FirstHomework\obj\Debug\FirstHomework.csproj.CoreCompileInputs.cache
+C:\Users\Majid\source\repos\FirstHomework\FirstHomework\obj\Debug\FirstHomework.exe
+C:\Users\Majid\source\repos\FirstHomework\FirstHomework\obj\Debug\FirstHomework.pdb
